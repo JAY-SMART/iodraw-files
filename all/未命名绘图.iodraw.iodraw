@@ -20,7 +20,7 @@
           <mxGeometry x="-600" y="210" width="250" height="81.89" as="geometry" />
         </mxCell>
         <mxCell id="p0q2ET7MER1_os5lXUf4-3" value="" style="rounded=1;whiteSpace=wrap;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="160" width="250" height="155" as="geometry" />
+          <mxGeometry x="-240" y="160" width="240" height="155" as="geometry" />
         </mxCell>
         <mxCell id="p0q2ET7MER1_os5lXUf4-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;X线检查（正位+蛙位片）&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-200" y="170" width="145" height="30" as="geometry" />
