@@ -8,7 +8,7 @@
           <mxGeometry x="-600" y="160" width="250" height="155" as="geometry" />
         </mxCell>
         <mxCell id="ZviYeUEoRClR5Q9qepri-7" value="X线检查（正位+蛙位片）" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="430" y="140" width="180" height="110" as="geometry" />
+          <mxGeometry x="100" y="160" width="240" height="155" as="geometry" />
         </mxCell>
         <mxCell id="ZviYeUEoRClR5Q9qepri-8" value="X线检查（正位+蛙位片）" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="140" width="180" height="110" as="geometry" />
