@@ -44,7 +44,7 @@
           <mxGeometry x="476" y="660" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-8" value="CTP检查/功能评分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="326" y="730" width="154.75" height="40" as="geometry" />
+          <mxGeometry x="326.75" y="730" width="174" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
