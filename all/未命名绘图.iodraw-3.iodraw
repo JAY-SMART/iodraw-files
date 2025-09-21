@@ -14,7 +14,7 @@
           <mxGeometry x="493" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="140" y="600" width="100" height="80" as="geometry" />
+          <mxGeometry x="363" y="710" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="使用随机数字表进行随机分组" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="295.25" y="300" width="237" height="40" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="rU5MtnneNp6MMdqMRcLl-4" value="完善术前检查（包括CTP/功能评分等）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325.25" y="500" width="175.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rU5MtnneNp6MMdqMRcLl-5" value="基线资料收集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rU5MtnneNp6MMdqMRcLl-5" value="进行手术" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325.25" y="590" width="175.5" height="40" as="geometry" />
         </mxCell>
       </root>
