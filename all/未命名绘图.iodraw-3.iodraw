@@ -52,7 +52,7 @@
         <mxCell id="rU5MtnneNp6MMdqMRcLl-10" value="时间点：术后6个月" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="506" y="750" width="107" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rU5MtnneNp6MMdqMRcLl-13" value="完善术前检查（包括CTP/功能评分等）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rU5MtnneNp6MMdqMRcLl-13" value="疗效观察&lt;div&gt;统计学分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325.25" y="840" width="175.5" height="60" as="geometry" />
         </mxCell>
       </root>
