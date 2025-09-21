@@ -44,13 +44,16 @@
           <mxGeometry x="476" y="660" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-8" value="CTP检查/功能评分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="346.06" y="750" width="135.38" height="40" as="geometry" />
+          <mxGeometry x="340.62" y="950" width="135.38" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rU5MtnneNp6MMdqMRcLl-9" value="时间点：术后3月" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rU5MtnneNp6MMdqMRcLl-9" value="时间点：术后3月" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="213" y="750" width="107" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-10" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="506" y="750" width="107" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rU5MtnneNp6MMdqMRcLl-11" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="373.75" y="140" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
