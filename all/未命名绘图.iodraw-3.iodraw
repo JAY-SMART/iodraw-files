@@ -82,8 +82,17 @@
         <mxCell id="rU5MtnneNp6MMdqMRcLl-6" value="A组：术后第一天开始服用中药" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="213" y="660" width="137" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rU5MtnneNp6MMdqMRcLl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rU5MtnneNp6MMdqMRcLl-7" target="rU5MtnneNp6MMdqMRcLl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-7" value="B组：术后常规处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="476" y="660" width="137" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rU5MtnneNp6MMdqMRcLl-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rU5MtnneNp6MMdqMRcLl-8" target="rU5MtnneNp6MMdqMRcLl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rU5MtnneNp6MMdqMRcLl-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rU5MtnneNp6MMdqMRcLl-8" target="rU5MtnneNp6MMdqMRcLl-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-8" value="CTP检查/功能评分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345.31" y="750" width="135.38" height="40" as="geometry" />
