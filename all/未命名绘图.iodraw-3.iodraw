@@ -44,10 +44,10 @@
           <mxGeometry x="213" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-1" value="A组：联合治疗组" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="213" y="370" width="137" height="40" as="geometry" />
+          <mxGeometry x="213" y="380" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-2" value="B组：单纯手术组" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="476" y="370" width="137" height="40" as="geometry" />
+          <mxGeometry x="476" y="380" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-3" value="基线资料收集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325.25" y="430" width="175.5" height="40" as="geometry" />
