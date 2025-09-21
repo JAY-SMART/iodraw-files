@@ -40,7 +40,7 @@
         <mxCell id="rU5MtnneNp6MMdqMRcLl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rU5MtnneNp6MMdqMRcLl-0" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rU5MtnneNp6MMdqMRcLl-0" value="纳入标准" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rU5MtnneNp6MMdqMRcLl-0" value="纳入标准" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="213" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rU5MtnneNp6MMdqMRcLl-1" target="rU5MtnneNp6MMdqMRcLl-3">
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-3" value="基线资料收集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325.25" y="430" width="175.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rU5MtnneNp6MMdqMRcLl-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rU5MtnneNp6MMdqMRcLl-4" target="rU5MtnneNp6MMdqMRcLl-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-4" value="完善术前检查（包括CTP/功能评分等）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325.25" y="500" width="175.5" height="60" as="geometry" />
