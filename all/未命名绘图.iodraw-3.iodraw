@@ -1,13 +1,13 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1260" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="rU5MtnneNp6MMdqMRcLl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;font-size: 16px; font-family: 仿宋_GB2312;&quot;&gt;基于&lt;span style=&quot;font-size: 16px;&quot; lang=&quot;EN-US&quot;&gt;CTP&lt;/span&gt;评估补肾活血汤联合带血管髂骨瓣移植术治疗股骨头坏死的研究&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;font-size: 16px; font-family: 仿宋_GB2312;&quot;&gt;基于&lt;span style=&quot;font-size: 16px;&quot; lang=&quot;EN-US&quot;&gt;CTP&lt;/span&gt;评估补肾活血汤联合带血管髂骨瓣移植术治疗股骨头坏死的研究&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="213" y="40" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-12">
