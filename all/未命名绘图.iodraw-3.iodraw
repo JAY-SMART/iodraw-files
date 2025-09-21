@@ -33,7 +33,7 @@
           <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="签署知情同意书" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="334.5" y="240" width="157" height="40" as="geometry" />
+          <mxGeometry x="326" y="240" width="175.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rU5MtnneNp6MMdqMRcLl-0" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="150" width="120" height="40" as="geometry" />
